@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_render_props",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_render_props",
+  "parent":{
+    "name":"MARA_V1",
+    "path":"MARA_V1.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

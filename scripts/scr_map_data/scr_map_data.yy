@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_map_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_map_data",
+  "parent":{
+    "name":"MARA_V1",
+    "path":"MARA_V1.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
